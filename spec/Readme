@@ -1,0 +1,36 @@
+Tag Smoke criada para executar mais de um script
+
+01- Análise de Risco
+    Definição de risco: O risco envolve a possibilidade da ocorrência futura de um evento com consequências negativas. O nível de risco é determinado pela probabilidade do evento e pelo impacto (o dano) desse evento.
+ 02- Testes Explotórios
+  ???
+ 03- Uso de Heurística de Teste
+  Pode ser definida como uma revisão da sua interface, levando em consideração os aspectos da experiência do usuário
+  Heurísticas são processos que ocorrem naturalmente na mente do ser humano. Elas ajudam a solucionar problemas e tomar decisões em condições de incerteza, substituindo a forma complexa de fazer algo, por outra mais simples e ainda assim trazendo resultados satisfatórios.
+          
+04- Uso de Técnicas de Teste
+    O objetivo de uma técnica de teste é identificar as condições de teste, os casos de teste e os dados de teste.
+05- Reporte e Investicação de Inconsistências
+06- Testes de Desempenho "0"
+07- Testes de Usabilidade 
+08- Testes de Compatibilidade
+09- Revisão de Código
+10- Design e Requisitos
+11- Automação de Testes de Unidade
+12- Componentes
+13- API
+14- Web
+15- Mobile
+16- Desktop
+17- Artefatos de Teste
+18- Criação e Preparação de Ambiente de Teste
+19- Criação de Frameworks de Processo e Ferramentas
+20- Melhoria do Processo
+21- Otimização de testes
+22- Testes de segurança
+23- Re-Teste
+24- Testes Regressivos
+25- Boas Praticas de teste
+26- Codificação
+27- Automação
+28- Arquitetura e Interface Gráfica

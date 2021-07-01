@@ -1,0 +1,29 @@
+Recurso ".description" - Exibe o(s) nome(s) do cenário(s) executado(s)
+Método ".gsub"- Faz Substring
+Tirar Print somente quando o teste falhar: 
+Teste em headless "sem cabeça"ou seja sem exibir o navegador.
+
+Glossario Jquery
+Buscar elemento id - $('#xpto');
+    Ex.: $('#flash') #rodar no console do navegador
+
+Glossario Capybara
+Recurso "fill_in" - Preenche campo | "with" - Informa o valor que devera ser preenchido no campo
+    Ex.: fill_in 'username', with: 'stark'
+Recurso "find" - Busca elemento.
+    Ex.: find('#flash')    #Sem espaço
+    
+
+
+ Nome Completo
+    CPF/CNPJ
+    E-MAIL
+    Telefone
+    Celular
+    Estado
+    Cidade
+    Assunto
+    Mensagem
+    Anexo - Botao Procurar
+    Botao Limpar
+    Botao Enviar
